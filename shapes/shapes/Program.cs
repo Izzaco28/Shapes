@@ -18,13 +18,14 @@ namespace shapes
             float height2 = 3;
 
             // print the details of each shape
-            Console.WriteLine("shape 1");
-            Console.WriteLine($"     Area: {width1 * height1}");
-            Console.WriteLine($"      perimeter: {2 * width1 + 2 * height1}");
-
-            Console.WriteLine("shape 2");
-            Console.WriteLine($"     Area: {width2 * height2}");
-            Console.WriteLine($"      perimeter: {2 * width2 + 2 * height2}");
+            PrintShape("Shape 1", width1, height1);
+            PrintShape("Shape 1", width2, height2);
+        }
+            static void PrintShape(string name, float width, float height)
+        {
+            Console.WriteLine(name);
+            Console.WriteLine($"      Area: {width * height}");
+            Console.WriteLine($"      Perimeter: {2 * width + 2  * height}");
         }
     }
 }
