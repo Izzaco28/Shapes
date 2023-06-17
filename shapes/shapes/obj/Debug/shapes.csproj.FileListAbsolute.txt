@@ -1,0 +1,8 @@
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\obj\Debug\shapes.csproj.AssemblyReference.cache
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\obj\Debug\shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\bin\Debug\shapes.exe.config
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\bin\Debug\shapes.exe
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\bin\Debug\shapes.pdb
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\obj\Debug\shapes.exe
+C:\Users\thing\Documents\code\Shapes\shapes\shapes\obj\Debug\shapes.pdb
